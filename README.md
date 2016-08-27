@@ -172,7 +172,8 @@ YOU WILL NOT RECEIVE HELP IF YOU HAVEN'T READ THE INSTRUCTIONS WHEN INSTALLING Y
  * low priority: change/remove file headers? most of the original files still say 'AcmlmBoard XD'
  * besides it'd be an opportunity to add a license like the GPL
  * Add more stuff
- * make blargboard 1.2.2
+ * make blargboard 1.2.3 MRS
+
 -------------------------------------------------------------------------------
 
 Blargboard is provided as-is, with no guarantee that it'll be useful or even work. I'm not
