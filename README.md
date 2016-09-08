@@ -68,28 +68,28 @@ Depending on the versions, your update may involve running extra scripts to fix 
 Updating from Blargboard 1.0 isn't covered.
 
 To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
-*/index.php
-*/install.php
-*/lib/bbcode_callback.php
-*/lib/bbcode_parser.php
-*/lib/common.php
-*/lib/syndromes.php
-*/lib/permstrings.php
-*/pages/register.php
-*/pages/404.php
-*/pages/newreply.php
-*/pages/newthread.php
-*/pages/nuke.php
-*/pages/reregs.php
-*/instameme (the whole folder. put in the root of your board)
-*/pages/irc.php
-*/menus.php
+* /index.php
+* /install.php
+* /lib/bbcode_callback.php
+* /lib/bbcode_parser.php
+* /lib/common.php
+* /lib/syndromes.php
+* /lib/permstrings.php
+* /pages/register.php
+* /pages/404.php
+* /pages/newreply.php
+* /pages/newthread.php
+* /pages/nuke.php
+* /pages/reregs.php
+* /instameme (the whole folder. put in the root of your board)
+* /pages/irc.php
+* /menus.php
 
 to update from blargboard 1.2.1, drag these files
-*/pages/irc.php
-*/lib/common.php
-*/index.html
-*/menus.php
+* /pages/irc.php
+* /lib/common.php
+* /index.html
+* /menus.php
 
 ## Features
 
